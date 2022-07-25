@@ -1,3 +1,2 @@
-Here you can find a 
-[link](https://docs.google.com/spreadsheets/d/1CEV_voZjGz4s-1M1-GUucm7MqQY1S6AAnOhPTLyqH9c/edit#gid=0)
-to all the bug reports from Check List.
+Here you can find a link to all the bug reports from Check List: https://docs.google.com/spreadsheets/d/1CEV_voZjGz4s-1M1-GUucm7MqQY1S6AAnOhPTLyqH9c/edit#gid=0
+
